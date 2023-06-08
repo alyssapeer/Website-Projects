@@ -37,7 +37,7 @@ education:
       institution: Loyola University Chicago
       year: Dec. 2023
     - course: BSc in Management Information Systems
-      institution: Loyola University Chicago
+      institution: Florida State University
       year: 2021
 
 # Social/Academic Networking
