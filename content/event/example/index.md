@@ -41,7 +41,7 @@ links:
   #   url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'static/uploads/Purple Air Presentation.pdf'
+url_slides: uploads/Purple_Air_Presentation.pdf
 url_video: ''
 
 # Markdown Slides (optional).
@@ -59,7 +59,7 @@ url_video: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
+ # - example
 ---
 
 {{% callout note %}}
