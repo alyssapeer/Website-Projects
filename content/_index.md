@@ -25,7 +25,7 @@ sections:
           icon_pack: fas
         - name: 
           description: 10%
-          icon: camera-retro
+          icon: chart-scatter-bubble
           icon_pack: fas
   - block: experience
     content:
@@ -39,30 +39,40 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Assistant
+          company: Loyola University Chicago
+          #company_url: ''
+          #company_logo: org-gc
+          location: Chicago, IL
+          date_start: '2022-08-16'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Air quality research
+              * Visualizing and modeling spatial data
+              * Aggregating data from networked sensors using a RESTful API
+        - title: Marketing Analyst
+          company: WCG KMR Group
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          #company_logo: org-x
+          location: Chicago, IL
+          date_start: '2021-07-01'
+          date_end: '2022-05-31'
+          description: Analyzed usage data and marketing campaign performance to build high-level reports for senior leadership.
     design:
       columns: '2'
-  - block: accomplishments
+        - title: Data Research Analyst
+          company: Universal Property and Casualty Insurance Company
+          company_url: ''
+          #company_logo: org-x
+          location: Chicago, IL
+          date_start: '2020-07-01'
+          date_end: '2021-01-31'
+          description: Leveraged Power BI and Excel to clean and analyze data from the claims department.
+    design:
+      columns: '2'
+  #- block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -145,9 +155,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: Data Visualization
           tag: Deep Learning
-        - name: Other
+        - name: Stati
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
