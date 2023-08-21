@@ -26,9 +26,9 @@ bio: My research interests include data science, data visualization, and spatial
 
 # Interests to show in About widget
 interests:
-  - Environmental Statistics
   - Spatial Statistics
-  - Data Science
+  - Data Visualization
+  - Data Science for Social Good
 
 # Education to show in About widget
 education:
