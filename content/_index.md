@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Alyssa Peer
 date: 2022-10-24
 type: landing
 
@@ -23,10 +23,10 @@ sections:
           description: 75%
           icon: chart-line
           icon_pack: fas
-        - name: 
-          description: 10%
-          icon: chart-scatter-bubble
-          icon_pack: fas
+        # - name: 
+        #   description: 10%
+        #   icon: chart-scatter-bubble
+        #   icon_pack: fas
   - block: experience
     content:
       title: Experience
