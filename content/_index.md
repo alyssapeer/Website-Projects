@@ -52,16 +52,16 @@ sections:
               * Air quality research
               * Visualizing and modeling spatial data
               * Aggregating data from networked sensors using a RESTful API
-        - title: Marketing Analyst
-          company: WCG KMR Group
-          company_url: ''
-          #company_logo: org-x
-          location: Chicago, IL
-          date_start: '2021-07-01'
-          date_end: '2022-05-31'
-          description: "Analyzed usage data and marketing campaign performance to build high-level reports for senior leadership."
-    design:
-      columns: '2'
+    #     - title: Marketing Analyst
+    #       company: WCG KMR Group
+    #       company_url: ''
+    #       #company_logo: org-x
+    #       location: Chicago, IL
+    #       date_start: '2021-07-01'
+    #       date_end: '2022-05-31'
+    #       description: "Analyzed usage data and marketing campaign performance to build high-level reports for senior leadership."
+    # design:
+    #   columns: '2'
         - title: Data Research Analyst
           company: Universal Property and Casualty Insurance Company
           company_url: ''
