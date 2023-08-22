@@ -60,8 +60,8 @@ sections:
           date_start: '2021-07-01'
           date_end: '2022-05-31'
           description: Analyzed usage data and marketing campaign performance to build high-level reports for senior leadership.
-    #design:
-      #columns: '2'
+    design:
+      columns: '2'
         - title: Data Research Analyst
           company: Universal Property and Casualty Insurance Company
           company_url: ''
@@ -70,8 +70,8 @@ sections:
           date_start: '2020-07-01'
           date_end: '2021-01-31'
           description: Leveraged Power BI and Excel to clean and analyze data from the claims department.
-    #design:
-      #columns: '2'
+    design:
+      columns: '2'
   #- block: accomplishments
     #content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
